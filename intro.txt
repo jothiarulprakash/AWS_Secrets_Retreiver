@@ -1,0 +1,1 @@
+AWS Secret Manager data retrival using lambda
